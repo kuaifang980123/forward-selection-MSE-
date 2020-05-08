@@ -1,5 +1,5 @@
 # forward-selection-MSE
-Professer asked us to use MSE as a forwarding selection cretirion ... (aic、bic不香嘛……现在有人自己写方程用mse做的嘛……老师的要求实在是emmm）
+Professer asked us to use MSE as a forwarding selection cretirion ... 
 
 First step:
 - Write a for loop to select the best variable with the minimum MSE value.
